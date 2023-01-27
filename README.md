@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Jufg<br>🔬 Ich studiere gerade Informatik<br>🔭 Vor allem programmiere ich Webanwendungen<br>🌱 I’m currently learning development with dApps
+👋 Hi, I’m @Jufg<br>🔬 I am currently studying computer science<br>🔭 I mainly program web applications<br>🌱 I’m currently learning development with dApps
 
 
 ## 🌐 Socials:
